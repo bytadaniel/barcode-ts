@@ -26,9 +26,9 @@
     "url": "https://github.com/samt/barcode.git"
   },
   "dependencies": {
-    "gm": "1.16.0"
+    "gm": "^1.25.0"
   },
   "devDependencies": {
-    "mocha": "^1.21.4"
+    "mocha": "^10.1.0"
   }
 }
